@@ -10,17 +10,20 @@ Two conda environments are available to run the notebooks locally (see below) if
 Enviroment created using the option --from-history
 
 Using conda
-			conda env create --file environment_FH.yml
+
+	conda env create --file environment_FH.yml
 		
 Using mamba
-			mamba env create --file environment_FH.yml
+
+	mamba env create --file environment_FH.yml
 
 ### Importing for ubuntu 20.04
 
 Enviroment created using the option --no-builds
 
 Using conda
-                        conda env create --file environment_NB.yml
+
+    conda env create --file environment_NB.yml
 
 Using mamba
-                        mamba env create --file environment_NB.yml
+    mamba env create --file environment_NB.yml
