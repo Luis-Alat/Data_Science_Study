@@ -1,0 +1,39 @@
+name: DataScience
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - tensorflow
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - jupyterlab
+  - pillow
+  - imageio
+  - openpyxl
+  - graphviz
+  - python-graphviz
+  - pydot
+  - ipympl
+  - nodejs
+  - ffmpeg
+  - imagemagick
+  - nltk
+  - mlxtend
+  - xgboost
+  - html5lib
+  - keras
+  - plotly
+  - scipy
+  - pytest
+  - statsmodels
+  - rpy2
+  - ca-certificates
+  - certifi
+  - openssl
+  - r-lsr
+  - r-nortest
+  - r-ggplot2
+  - r-car
+prefix: /home/lromero/mambaforge/envs/DataScience
