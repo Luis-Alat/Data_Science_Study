@@ -26,4 +26,5 @@ Using conda
     conda env create --file environment_NB.yml
 
 Using mamba
+
     mamba env create --file environment_NB.yml
