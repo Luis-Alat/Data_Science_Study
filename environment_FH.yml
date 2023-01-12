@@ -36,4 +36,8 @@ dependencies:
   - r-nortest
   - r-ggplot2
   - r-car
+  - r-desctools
+  - r-rstatix
+  - r-pmcmr
+  - r-pmcmrplus
 prefix: /home/lromero/mambaforge/envs/DataScience

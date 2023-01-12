@@ -28,3 +28,7 @@ Using conda
 Using mamba
 
     mamba env create --file environment_NB.yml
+
+## Notes
+
+* For a better display of the notebook (plotly plots), I recommed the use of **nbviewer** at https://nbviewer.org/
