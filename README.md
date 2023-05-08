@@ -26,8 +26,8 @@ Run the following command using mamba to create the environment
 
 This repository contains several folders describing concepts and code about diverse topics. In this way, the index is as follows:
 
-### Statistics: Descriptive and Inferential Statistic
+* [Statistics](https://github.com/Luis-Alat/Data_Science_Study/tree/main/Statistic): Descriptive and Inferential Statistic
 
-### Machine Learning: Supervised and Unsupervised Learning
+* [Machine Learning](https://github.com/Luis-Alat/Data_Science_Study/tree/main/Machine_Learning): Supervised and Unsupervised Learning
 
-### Prompt Engineering: Basic prompting principles with ChatGPT based on DeepLearning.AI
+* [Prompt Engineering](https://github.com/Luis-Alat/Data_Science_Study/tree/main/Promp_Engineering): Basic prompting principles with ChatGPT based on DeepLearning.AI
